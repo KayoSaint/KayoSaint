@@ -5,7 +5,9 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kayosaint/)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kayozeraii@gmail.com)
 
-![Kayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayoSaint&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayoSaint&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoSaint&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
 ## Skills
 
