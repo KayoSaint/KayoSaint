@@ -6,7 +6,7 @@
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kayozeraii@gmail.com)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayoSaint&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoSaint&layout=compact&langs_count=8&theme=radical"/>
+<img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoSaint&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ## Skills
@@ -17,3 +17,4 @@
 <img align='center' alt='JavaScript' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
 <img align='center' alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
 </div>
+
